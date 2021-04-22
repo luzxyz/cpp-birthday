@@ -1,7 +1,7 @@
 # Birthday card in C++
 
 This is an executable which prints a customizable ASCII birthday cards.
-
+Only supported on windows by now
 ## Important:
 >To change the message just change the message arrays
 >remember to use the ASCII code for special characters
