@@ -8,4 +8,4 @@ This is an executable which prints a customizable ASCII birthday cards.
 >by now only UTF-8 is supported
 
 ## License
-Licensed under the [GPUv3](https://www.gnu.org/licenses/gpl-3.0.en.html "aka the sue allower")
+Licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html "aka the sue allower")
